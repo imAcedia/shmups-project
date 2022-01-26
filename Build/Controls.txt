@@ -1,0 +1,5 @@
+Movement: Arrow-Keys or WASD
+
+Shoot A: Z or Right-Control
+
+Shoot B: X or Right-Shift

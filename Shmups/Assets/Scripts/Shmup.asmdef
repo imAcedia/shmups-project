@@ -1,0 +1,16 @@
+{
+    "name": "Shmup",
+    "rootNamespace": "Shmup",
+    "references": [
+        "GUID:22ffcbf224ddebf46b3c59331c47f874"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
